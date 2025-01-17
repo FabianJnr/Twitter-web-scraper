@@ -2,7 +2,7 @@
 
 Hello and welcome!!
 
-This is a web scraper built by Gabriel Sasu.
+This is a web scraper built by Fabian Mintah.
 
 This is meant for educational and adventurous purposes only and I would appreciate it to be used as such.
 This web scraper collects and analyzes thousands of tweets all at once and filters based on your preferences.
